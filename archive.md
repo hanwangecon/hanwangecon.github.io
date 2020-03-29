@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "文章归档"
+description: "By date"
 header-img: "img/twitter.jpg"
 ---
 
