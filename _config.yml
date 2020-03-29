@@ -4,12 +4,12 @@ header-img: "img/background2.jpg"
 tagline: "cn"  
 description: "This is my Blog."  # 一句话描述你的博客
 baseurl: ""
-url: "http://hanwang.GitHub.io"  # 此处填写你的博客地址 
+url: "http://hanwangecon.GitHub.io"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
   name: "Han Wang" # 填写作者信息：名字
-  email: 517500018@qq.com # 填写作者信息：邮箱
+  email: wang.12716@osu.edu # 填写作者信息：邮箱
   bio: "This is my Blog." # 填写作者信息：博客描述
 
 # Data
@@ -33,7 +33,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: US/Central
 
 # Defaults for posts
 defaults:
