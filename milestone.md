@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "CV"
-description: "简历"
+title: "Self"
+description: "CV"
 header-img: "img/zhihu.jpg"
 ---
 
-You can find my CV [here](https://www.dropbox.com/s/cdm90pq41ag9pwy/HanWang_Resume_12222018.pdf?dl=0).
+I am Han Wang, a first year Econ PhD student in The Ohio State University.
+You can find my CV [here](hanwangecon.github.io).
 
 
 
