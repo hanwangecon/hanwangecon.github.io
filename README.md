@@ -1,3 +1,3 @@
-This is my blog for work. It's under construction.
+This is my blog for work. Under construction...
 
 
