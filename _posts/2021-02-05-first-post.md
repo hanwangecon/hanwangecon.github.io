@@ -2,11 +2,10 @@
 layout: post
 published: true
 comments: false
-title: Testing
+title: Comment
 date: 2021-02-05
 categories: blog
-tags:[Econ]
-description: no subject
+tags: [Econ]
+description: Some Thoughts
 ---
-
-Hello world!
+Hello World!
