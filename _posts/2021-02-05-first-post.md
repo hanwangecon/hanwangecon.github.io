@@ -10,3 +10,4 @@ description: The first post!
 math: true
 ---
 Hello World!
+$\sqrt{2}$
