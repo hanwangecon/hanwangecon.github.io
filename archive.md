@@ -5,7 +5,7 @@ description: "By date/ topics"
 header-img: "img/twitter.jpg"
 ---
 
-Sort by date
+<b> Sort by date </b>
 
 <ul class="listing">
 {% for post in site.posts %}
@@ -21,7 +21,7 @@ Sort by date
 {% endfor %}
 </ul>
 
-Sort by topics
+<b> Sort by topics </b>
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
