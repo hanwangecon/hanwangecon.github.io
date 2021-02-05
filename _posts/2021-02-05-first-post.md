@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 comments: false
 title: "Designing Incentives for Heterogeneous Researchers" by Nathan Yoder
 date: 2021-02-05
