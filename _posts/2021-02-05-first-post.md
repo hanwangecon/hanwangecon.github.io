@@ -13,7 +13,7 @@ This paper is by Nathan Yoder (R&R Journal of Political Economy, 2021).
 
 The link is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3154143).
 
-<h6>Model</h6>
+<h5>Model</h5>
 
 <ul>
 <li>Information procurement: A decision-maker contracts with a researcher whose cost of experiments is private information. </li>
@@ -25,7 +25,7 @@ The link is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id
 <li>The contract can be based on either the experiment (methods-based) or the realized posterior (results-based). Results-based contracts are more realistic, ex. the researcher could be paid according to the journal publication.</li>
 </ul>
 
-<h6>Results (Binary states)</h6>
+<h5>Results (Binary states)</h5>
 
 <ul>
 <li>Methods-based Contracts
@@ -42,6 +42,6 @@ The link is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id
  </li>
 </ul>
 
-<h6>Insights</h6>
+<h5>Insights</h5>
 
-A comparative statics result is the key: More convex information design problems have Blackwell-more informative solutions.
+A comparative statics result is the key: More convex information design problems have Blackwell-more informative solutions. (Quasisupermodularity needs not hold here)
