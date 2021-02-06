@@ -37,7 +37,7 @@ The link is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id
 <li> Results-based Contracts
  <ul>
 <li> Any binary, feasible, Blackwell-monotone experiment choice function can be implemented with a result-based contract. We can construct such contract ``outwards'' (from the highest-cost to the lowest-cost). </li>
-<li> Results-based implementation requires Blackwell-Monotonicity. </li>
+<li> Results-based implementation requires Blackwell-monotonicity. </li>
 </ul>
  </li>
 </ul>
