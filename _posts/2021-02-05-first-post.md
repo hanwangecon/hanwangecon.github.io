@@ -9,9 +9,9 @@ tags: [Econ]
 description: The first post!
 math: true
 ---
-2021 R&R at Journal of Political Economy 
+R&R at Journal of Political Economy, 2021 
 
-Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3154143
+The link is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3154143).
 
 <h6>Model</h6>
 
