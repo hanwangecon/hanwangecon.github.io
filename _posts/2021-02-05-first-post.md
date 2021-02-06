@@ -2,14 +2,14 @@
 layout: post
 published: true
 comments: false
-title: Designing Incentives for Heterogeneous Researchers by Nathan Yoder
+title: Designing Incentives for Heterogeneous Researchers
 date: 2021-02-05
 categories: blog
 tags: [Econ]
 description: The first post!
 math: true
 ---
-R&R at Journal of Political Economy, 2021 
+This paper is by Nathan Yoder (R&R Journal of Political Economy, 2021). 
 
 The link is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3154143).
 
