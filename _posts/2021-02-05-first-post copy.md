@@ -16,12 +16,12 @@ The link is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id
 <h5>Model</h5>
 
 <ul>
-<li> Information procurement: A decision-maker contracts with a researcher whose cost of running experiments is private information. </li>
+<li> Information procurement: A decision-maker contracts with a researcher whose cost of experiments is private information. </li>
 <ul>
-<li> Bayesian persuasion: the sender's payoff is specified by a contract.</li>
-<li> Contracting in a setting with adverse selection: the low-cost researcher may mimic the high-cost for ``high compensation'', so there is efficiency loss. </li>
+<li> Bayesian persuasion: the sender's payoff is specified by a contract. </li>
+<li> Contracting in a setting with adverse selection: the low-cost researcher may mimic the high-cost for (relatively) high compensation, so there is potential efficiency loss due to the incentive compatibility constraints. </li>
 </ul>
-<li> The cost of an experiment is assumed to be posterior-separable (the expected reduction of uncertainty), and multiplicatively separable with the researcher's type. $C(\tau,\theta)$=E_{\tau}[\theta \cdot c(p)], where $c(p)=H(p_{0})-H(p)$ represents the reduction in the measure of uncertainty $H$.</li>
+<li> The cost of an experiment is assumed to be posterior-separable (the expected reduction of uncertainty), and multiplicatively separable with the researcher's type. </li>
 <li> The contract can be based on either the experiment (methods-based) or the realized posterior (results-based). Results-based contracts are more realistic, ex. the researcher could be rewarded according to the journal publication. It is not easy to contract on the research method, a full experiment containing various counterfacturals. </li>
 </ul>
 
